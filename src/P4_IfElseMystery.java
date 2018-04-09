@@ -1,7 +1,7 @@
 /*
 	ISYS 320
-	Name(s):
-	Date: 
+	Name(s): Matthew Shelby
+	Date: 4/8/2018
 */
 
 /*
@@ -16,8 +16,11 @@
 public class P4_IfElseMystery {
 
 	public static void main(String[] args) {
-		// Put your call to ifElseMyster2 here
-
+		ifElseMystery(10, 2);
+		ifElseMystery(3, 8);
+		ifElseMystery(4, 4);
+		ifElseMystery(10, 30);
+		
 	}
 	
     public static void ifElseMystery(int a, int b) {
